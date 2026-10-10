@@ -38,7 +38,7 @@ Fragen: bereitgestelltes PDF, Bund Oktober 2023 / Hessen April 2024. Der Katalog
 
 ## Speicherung
 
-Alle Lernstände bleiben im lokalen Browser-Speicher. Kein Konto, kein Server für Antworten und keine Synchronisierung zwischen Geräten. Fassung 2 nutzt einen eigenen Speicherschlüssel. Beim ersten Öffnen kann sie Zähler aus Fassung 1 auf derselben Domain übernehmen; historische Zeitpunkte werden dabei nicht erfunden. Die erste Fassung wird nicht verändert.
+Alle Lernstände bleiben im lokalen Browser-Speicher. Kein Konto, kein Server für Antworten und keine Synchronisierung zwischen Geräten. Dieser Lernplatz nutzt einen eigenen Speicherschlüssel. Zähler und Historien anderer Lernplätze werden nicht automatisch übernommen. Die anderen Fassungen werden nicht verändert.
 
 Auf gemeinsam benutzten Geräten teilen Nutzer desselben Browserprofils den Lernstand. Für unterschiedliche Kinder getrennte Browserprofile verwenden. Regelmäßig „Verlauf sichern“ nutzen: Beim Löschen des Browser-Speichers gehen ungesicherte Daten verloren.
 
